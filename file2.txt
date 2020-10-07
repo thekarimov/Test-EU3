@@ -1,2 +1,6 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+Added my stuff of more 
+Change change change 
+this is not my remote repi but i want t
